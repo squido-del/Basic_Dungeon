@@ -23,3 +23,5 @@ simpel game with random levels
 
 Built for learning and improving Python skills.
 its my first python project 
+Need sugestion and help to make it bigger
+
